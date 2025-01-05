@@ -96,7 +96,7 @@
       <repository>
         <id>nexus</id>
         <name>Landmark Technologies Releases Nexus Repository</name>
-        <urlhttp://35.172.199.98:8081/repository/Lloyds-releases/></url>
+        <url>http://35.172.199.98:8081/repository/Lloyds-releases/</url>
       </repository>
       
       <snapshotRepository>
